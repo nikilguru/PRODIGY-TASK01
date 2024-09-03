@@ -1,4 +1,4 @@
-[6:10 PM, 9/3/2024] Harshitha Ram: let timer;
+
 let isRunning = false;
 let [hours, minutes, seconds] = [0, 0, 0];
 
